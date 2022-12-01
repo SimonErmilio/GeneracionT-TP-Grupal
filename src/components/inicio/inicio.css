@@ -1,0 +1,36 @@
+
+.imagen {
+    display: block;
+    width: 600px;
+    margin: auto;
+    margin-top: 60px;
+}
+
+
+
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    margin: auto;
+    margin-top: 30px;
+    width: 200px;
+    height: 30px;
+    font-size: 35px;
+    background: none;
+    background-color: #ffffff00;
+}
+
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 100vh;
+    background: none;
+    background-color: #ffffff00;
+}
+.imag{
+
+}

@@ -1,0 +1,36 @@
+
+.navbar {
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    background-color: #202020;
+    color: #CDCDCD;
+    margin-left: 10px;
+    margin-left: 10px;
+}
+
+.baltimoreText{
+font-family: 'Aktura-Regular';
+letter-spacing: 4px;
+font-size: 25px;
+font-style: normal;
+font-weight: lighter;
+}
+
+hr{
+    width: 100%;
+    margin-top: 10px;
+    height: 2px;
+    background: #CDCDCD;
+}
+
+li{
+   margin: 5px;
+   padding: 100px;
+}
+
+li:hover{
+    background-color: #111111;
+    border-radius: 25px;
+}
